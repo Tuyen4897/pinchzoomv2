@@ -2,7 +2,7 @@
   "name": "pinchzoomv2",
   "version": "1.0.1",
   "description": "zoom in zoom out image",
-  "main": "index.js",
+  "main": "src/pinchzoom.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
