@@ -1,6 +1,6 @@
 {
   "name": "pinchzoomv2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "zoom in zoom out image",
   "main": "index.js",
   "scripts": {
