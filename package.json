@@ -1,8 +1,8 @@
 {
   "name": "pinchzoomv2",
-  "version": "1.0.3",
+  "version": "1.0.8",
   "description": "zoom in zoom out image",
-  "main": "src/pinchzoom.min.js",
+  "main": "dist/pinchzoom.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,6 +13,7 @@
     "url": "https://github.com/Tuyen4897/pinchzoomv2.git"
   },
   "files": [
+    "dist",
     "src"
   ]
 }
